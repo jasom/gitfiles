@@ -15,6 +15,6 @@ Slightly slower start:
 * invoke ```(gitfiles::make)``` to save an image and quit;  This will output an
   executable named "gitfiles" in the same directory as the ```gitfiles.asd```
 * you can run that executable giving it exactly one argument as the path to a
-  git repository with no loos objects
+  git repository with no loose objects
 * Alternatively (gitfiles:show-files) will do the same thing, but run on the
   current working directory.
